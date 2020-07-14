@@ -1,8 +1,9 @@
 # wordpresshosting
 hosted wordpress on aws
 ## What is a virtual private cloud (VPC)?
-# <img src = screenshots/0.jfif>
-# <img src = screenshots/1.jfif>
+
+<img src = screenshots/0.jfif>
+ <img src = screenshots/1.jfif>
 
 ### A virtual private cloud (VPC) is a public cloud offering that lets an enterprise establish its own private cloud-like computing environment on shared public cloud infrastructure. A VPC gives an enterprise the ability to define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
 
