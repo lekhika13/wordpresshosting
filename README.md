@@ -1,27 +1,8 @@
 # wordpresshosting
 hosted wordpress on aws
 What is a virtual private cloud (VPC)?
-
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
+<img src = screenshots/0.jfif>
+<img src = screenshots/1.jfif>
 A virtual private cloud (VPC) is a public cloud offering that lets an enterprise establish its own private cloud-like computing environment on shared public cloud infrastructure. A VPC gives an enterprise the ability to define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
 
 Imagine that a cloud provider’s infrastructure is a residential apartment building with multiple families living inside. Being a public cloud tenant is akin to sharing an apartment with a few roommates. In contrast, having a VPC is like having your own private condominium—no one else has the key, and no one can enter the space without your permission.
@@ -257,88 +238,21 @@ terraform apply -auto-approve
 OUTPUTS:
 
 
+<img src = screenshots/3.png>
 
+<img src = screenshots/4.png>
 
+<img src = screenshots/5.png>
 
+<img src = screenshots/6.png>
 
+<img src = screenshots/7.png>
 
+<img src = screenshots/8.png>
 
-Add alt text
-No alt text provided for this image
+<img src = screenshots/9.png>
 
+<img src = screenshots/10.png>
 
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
-
-
-
-
-
-Add alt text
-No alt text provided for this image
-
-
+<img src = screenshots/11.png>
 THANKYOU!!!
