@@ -1,7 +1,7 @@
 ## What is a virtual private cloud (VPC)?
 
-  <img src = /screenshots/0.jfif>
-  <img src = /screenshots/1.jfif>
+  <img src = "screenshots/0.jfif">
+  <img src = "screenshots/1.jfif">
 
 ### A virtual private cloud (VPC) is a public cloud offering that lets an enterprise establish its own private cloud-like computing environment on shared public cloud infrastructure. A VPC gives an enterprise the ability to define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
 
@@ -232,22 +232,22 @@ terraform apply -auto-approve
 ## OUTPUTS:
 
 
-<img src = screenshots/3.png>
+<img src = "screenshots/3.png">
 
-<img src = screenshots/4.png>
+<img src = "screenshots/4.png">
 
-<img src = screenshots/5.png>
+<img src = "screenshots/5.png">
 
-<img src = screenshots/6.png>
+<img src = "screenshots/6.png">
 
-<img src = screenshots/7.png>
+<img src = "screenshots/7.png">
 
-<img src = screenshots/8.png>
+<img src = "screenshots/8.png">
 
-<img src = screenshots/9.png>
+<img src = "screenshots/9.png">
 
-<img src = screenshots/10.png>
+<img src = "screenshots/10.png">
 
-<img src = screenshots/11.png>
+<img src = "screenshots/11.png">
 
 # THANKYOU!!!
